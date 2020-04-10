@@ -1,0 +1,10 @@
+
+public class bai2 {
+public static void main(String arg[]) {
+int songuyen;
+songuyen = 0;
+System.out.println("songuyen"  + "toan kho the");
+
+
+}
+}

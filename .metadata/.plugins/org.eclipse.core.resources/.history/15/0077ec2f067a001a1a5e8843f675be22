@@ -1,0 +1,24 @@
+package oop;
+
+
+public class lab2 {
+	public static void main(String[] args) {
+		
+
+	Student hs1 = new Student("tue", "150066");
+}
+}
+
+class Student {
+	private String name;
+	private String ssn;
+	private static int ID = 1234;
+	private String email;
+	
+	public Student(String name, String ssn) {
+	email = name+"@gmail.com";
+	ID++;
+	}
+	
+	
+}

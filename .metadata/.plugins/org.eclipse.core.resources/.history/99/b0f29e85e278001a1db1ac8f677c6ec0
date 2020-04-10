@@ -1,0 +1,13 @@
+package oop;
+
+public class BackAccountApp {
+public static void main(String[] args) {
+	BankAccount acc1 = new BankAccount();
+	acc1.withdraw(); 	
+	
+	System.out.println(acc1.toString());
+	
+	acc1.getSsn();
+	
+}
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.JCDiagnostic.SimpleDiagnosticPosition"/>
+    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
+    <fullyQualifiedTypeName name="java.time.DayOfWeek"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="sun.awt.windows.ThemeReader"/>
+    <fullyQualifiedTypeName name="jdk.nashorn.internal.runtime.regexp.joni.ast.QuantifierNode"/>
+    <fullyQualifiedTypeName name="basics.Strings"/>
+    <fullyQualifiedTypeName name="com.sun.accessibility.internal.resources.accessibility"/>
+    <fullyQualifiedTypeName name="basics.NumbersCalc"/>
+    <fullyQualifiedTypeName name="java.awt.print.Printable"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.runtime.StaticBaseConstructor"/>
+    <fullyQualifiedTypeName name="jdk.dynalink.beans.StaticClass"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.RETURN"/>
+    <fullyQualifiedTypeName name="java.awt.Image"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.lir.aarch64.AArch64SpeculativeBarrier"/>
+    <fullyQualifiedTypeName name="jdk.nashorn.internal.codegen.CompilerConstants.Call"/>
+    <fullyQualifiedTypeName name="oop.person"/>
+    <fullyQualifiedTypeName name="oop.BackAccountApp"/>
+    <fullyQualifiedTypeName name="tue.Car"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.Number"/>
+    <fullyQualifiedTypeName name="oop.IInterest"/>
+    <fullyQualifiedTypeName name="oop.BankAccount"/>
+    <fullyQualifiedTypeName name="jdk.jfr.internal.PrivateAccess"/>
+    <fullyQualifiedTypeName name="oop.Student"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+</qualifiedTypeNameHistroy>

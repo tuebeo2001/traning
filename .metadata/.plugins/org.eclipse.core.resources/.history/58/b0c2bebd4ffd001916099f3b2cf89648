@@ -1,0 +1,15 @@
+
+public class bai7 {
+public static void main(String args[]) {
+
+	int n =5;
+	int inc = 1;
+	int init = 0;
+	int a;
+			
+	for( a = init; a < n; a+=inc) {
+	
+	System.out.println("a = " + a);
+}
+}
+}

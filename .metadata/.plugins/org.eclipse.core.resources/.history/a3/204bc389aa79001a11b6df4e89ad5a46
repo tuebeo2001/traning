@@ -1,0 +1,19 @@
+package oop;
+
+
+public class lab2 {
+	
+	Student hs1 = new Student("tue", "150066");
+
+}
+
+class Student {
+	private String ten;
+	private String masinhvien;
+	private static int id;
+	
+	public Student(String ten, String masinhvien) {
+		System.out.println(ten+"@gmail.com");
+		
+	}
+}

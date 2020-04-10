@@ -1,0 +1,63 @@
+package oop;
+
+import java.util.Random;
+
+public class lab2 {
+	public static void main(String[] args) {
+		
+
+	Student hs1 = new Student("tue", "150066");
+}
+}
+
+class Student {
+	private String name;
+	private String ssn;
+	private static int ID = 1000;
+	private String email;
+	private String user_ID; 
+	
+	public Student(String name, String ssn) {
+	this.name = name;
+	this.ssn = ssn;
+	getemail();
+	ID++;
+	getID();
+	}
+	
+	private void getemail() {
+		System.out.println(name+ "@email.com");
+	}
+	
+	public void getID() {
+		int random = (int) (Math.random() * 10000);
+		user_ID = ID + "" + random + ssn.substring(3);
+		System.out.println(user_ID);
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
